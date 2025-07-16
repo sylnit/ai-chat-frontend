@@ -1,5 +1,5 @@
 # AI Chat Frontend
-This is a chat frontend for an AI backend that integrates with an LLM to provide similar chat feature to ChatGTP
+This is a chat frontend for an AI backend that integrates with an LLM to provide similar chat feature to ChatGTP.
 
 ## Screenshot of the frontend
 ![Alt text](./screenshot%202025-07-16%20144350.png "Frontend screenshot")
@@ -9,7 +9,7 @@ This is a chat frontend for an AI backend that integrates with an LLM to provide
 ```
 git clone git@github.com:sylnit/ai-chat-frontend.git (ssh)
 or 
-https://github.com/sylnit/ai-chat-frontend.git (https)
+git clone https://github.com/sylnit/ai-chat-frontend.git (https)
 
 ```
 
